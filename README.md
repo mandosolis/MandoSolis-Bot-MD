@@ -1,10 +1,6 @@
 # `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮` 
 
 ------------------
-> **AVISO**: Yo "Bruno Sobrino", me he retirado de todo lo relacionado con el Bot o temas similares, por lo que en algun momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los Bots.
-
-> TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic
-------------------
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
@@ -27,7 +23,7 @@
  > NO SPAMEAR COMANDOS
 
 ### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- AGRADECE CON UNA DONACION VOLUNTARIA 
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
@@ -36,7 +32,6 @@
 - TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
   
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
